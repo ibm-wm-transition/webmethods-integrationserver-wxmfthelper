@@ -40,3 +40,4 @@ Generates the http port, one user, and one vfs.
 Generates several ports, multiple system users as well as ldap users - if possible -,
 and multiple local vfs as well as remote vfs - if possible.
 
+The results of the generation can be viewed in server.log.
